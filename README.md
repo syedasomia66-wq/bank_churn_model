@@ -1,2 +1,2 @@
 # bank_churn_model
-A neural network model built with TensorFlow/Keras to predict bank customer churn using preprocessed and scaled data. Evaluated with standard classification metrics and saved for reuse.
+A neural network model built with TensorFlow/Keras to predict bank customer churn using preprocessed and scaled data. 
