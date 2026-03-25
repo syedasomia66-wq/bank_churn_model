@@ -57,4 +57,4 @@ This project builds a deep learning model to predict customer churn using a stru
 Python, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
 
 ## Repository
-[Add your GitHub link here]
+https://github.com/syedasomia66-wq/bank_churn_model
